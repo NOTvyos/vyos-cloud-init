@@ -1,3 +1,12 @@
+[//]: # (DISCLAIMER tE4AWE_AQahaxUGUpugu BEGIN)
+
+> [!CAUTION]
+> This project is an **independent fork of VyOS®**.
+> It is **not affiliated with, endorsed by, or sponsored by VyOS Networks Corporation** by any means.
+> VyOS® is a registered trademark of VyOS Networks Corporation.
+
+[//]: # (DISCLAIMER tE4AWE_AQahaxUGUpugu END)
+
 # cloud-init
 
 [![Build Status](https://travis-ci.com/canonical/cloud-init.svg?branch=main)](https://travis-ci.com/canonical/cloud-init) [![Read the Docs](https://readthedocs.org/projects/cloudinit/badge/?version=latest&style=flat)](https://cloudinit.readthedocs.org)
